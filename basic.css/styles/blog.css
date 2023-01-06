@@ -1,0 +1,45 @@
+
+.header{
+    height: 200px;
+    /* background-image: url(neymar.jpeg); */
+    /* background-image: url('../aminul.jpg'); */
+    /* background-image: url('../images/halland/halland\ 1.jpeg'); */
+    background-image: url('/developer.jpeg');
+    background-size:cover;
+   
+    background-repeat: no-repeat;
+    background-color: gray;
+    background-position: bottom right;
+    color: rgb(17, 6, 6);
+    background-blend-mode: multiply;
+    
+
+}
+
+.blog{
+    background-color: peru;
+    box-shadow: 10px 10px 10px gray;
+    margin-bottom: 10px;
+}
+h3{
+    color: red;
+    text-decoration: underline wavy green;
+
+}
+p{
+    color: blue;
+}
+h2.page-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+}
+span{
+    border: 1px solid red;
+    color: black;
+    height: 200px;
+    width: 300px;
+    display: none;
+}

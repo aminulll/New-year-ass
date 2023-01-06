@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blog{
+    text-align: center;
+    color: rgb(0, 157, 255);
+    text-decoration: line-through;
+    
+
+}
+header{
+  
+  height: 700px;
+    
+    color: rgb(17, 15, 15);
+    background-image: url(/developer.jpeg);
+    background-size: cover;
+    
+}
+.container{
+    display:block;
+}
+.container h3{
+    color: red;
+font-family: serif;
+text-align: center;
+text-decoration: underline;
+}
+
+.container p{
+    margin: 20px;
+    padding: 40px;
+    border: 10px solid black;
+    border-radius: 50%;
+    background-color: gray;
+    box-shadow: 10px 10px 10px gray;
+  
+}
+
